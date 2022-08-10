@@ -11,4 +11,4 @@ Hymns
 
 Additional Small Group Material
 -------------------------------
-- [accountability_questions.md][smallgroup/accountability_questions.md]
+- [accountability_questions.md](smallgroup/accountability_questions.md)
